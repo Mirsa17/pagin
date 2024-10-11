@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Encabezado con Botones</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Encabezado de la Página</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Botón 1</a></li>
+        <li><a href="#">Botón 2</a></li>
+        <li><a href="#">Botón 3</a></li>
+      </ul>
+    </nav>
+  </header>
+</body>
+</html>
